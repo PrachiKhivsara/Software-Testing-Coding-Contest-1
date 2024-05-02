@@ -1,0 +1,101 @@
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.setup()[pri:0, instance:null] 677387614
+02 May 2024 22:47:50 TRACE: [Graph] ================ SORTING
+02 May 2024 22:47:50 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 22:47:50 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.close()[pri:0, instance:null] 725744345
+02 May 2024 22:47:50 TRACE: [Graph] ================ SORTING
+02 May 2024 22:47:50 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 22:47:50 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.setup()[pri:0, instance:com.example.AppTest@ff684e1] -208006333
+02 May 2024 22:47:50 TRACE: [Graph] ================ SORTING
+02 May 2024 22:47:50 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 22:47:50 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1] -2076980609
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1] 1688178754
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1] 1664810614
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1] 248571013
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1] -1889432794
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.openMoneyControl()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.openMoneyControl()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.openMoneyControl()[pri:0, instance:com.example.AppTest@ff684e1] -1324768099
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1] 1517348602
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1] -1205863733
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1] 1097075594
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.getInvestedAmount()[pri:0, instance:com.example.AppTest@ff684e1] -973095390
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.getInvestedAmount()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1] -2109819363
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1] FROM INDEPENDENT OBJECTS
+02 May 2024 22:47:50 TRACE: [Graph] ================ SORTING
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.openMoneyControl()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.getInvestedAmount()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   ADDING PREDECESSOR FOR AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1] ==> AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.openMoneyControl()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]   REMOVED PRED AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1] FROM NODE AppTest.getInvestedAmount()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 22:47:50 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.openMoneyControl()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.hoverMutualFunds()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.navigateToSIPReturns()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.selectAxisFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.selectScheme()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.setAmount()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.setStartDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.setEndDate()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.calculateMutualFund()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.getInvestmentPeriod()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph]               AppTest.getInvestedAmount()[pri:0, instance:com.example.AppTest@ff684e1]
+02 May 2024 22:47:50 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ADDING NODE AppTest.close()[pri:0, instance:com.example.AppTest@ff684e1] 1291052328
+02 May 2024 22:47:50 TRACE: [Graph] ================ SORTING
+02 May 2024 22:47:50 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 22:47:50 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 22:47:50 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 22:47:50 INFO : [TestNG] Running:
+  Command line suite
+
+02 May 2024 22:48:22 INFO : Opened Website
+02 May 2024 22:48:22 INFO : mutual funds hovered without clicking
+02 May 2024 22:48:26 INFO : navigated to SIP Returns
+02 May 2024 22:48:29 INFO : selected Aixs Bank
+02 May 2024 22:48:31 INFO : selected given scheme
+02 May 2024 22:48:31 INFO : amount setted as 100000
+02 May 2024 22:48:32 INFO : start date setted as 2021-08-02
+02 May 2024 22:48:32 INFO : end date setted as 2023-08-17
+02 May 2024 22:48:34 INFO : calculating Mutual Funds
+02 May 2024 22:48:34 INFO : Investment Period Aug 02, 2021 to Aug 17, 2023
+02 May 2024 22:48:34 INFO : Total Amount Invested (Rs)
+2,500,000.00

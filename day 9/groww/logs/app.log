@@ -1,0 +1,87 @@
+02 May 2024 12:13:40 TRACE: [Graph] ADDING NODE AppTest.setUp()[pri:0, instance:null] 677384702
+02 May 2024 12:13:40 TRACE: [Graph] ================ SORTING
+02 May 2024 12:13:40 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:13:40 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ADDING NODE AppTest.tearDown()[pri:0, instance:null] -1305543291
+02 May 2024 12:13:40 TRACE: [Graph] ================ SORTING
+02 May 2024 12:13:40 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:13:40 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ADDING NODE AppTest.setUp()[pri:0, instance:com.example.AppTest@604c5de8] 1139706794
+02 May 2024 12:13:40 TRACE: [Graph] ================ SORTING
+02 May 2024 12:13:40 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:13:40 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ADDING NODE AppTest.shouldAnswerWithTrue()[pri:0, instance:com.example.AppTest@604c5de8] -1758849054
+02 May 2024 12:13:40 TRACE: [Graph] ================ SORTING
+02 May 2024 12:13:40 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:13:40 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ADDING NODE AppTest.tearDown()[pri:0, instance:com.example.AppTest@604c5de8] -201518845
+02 May 2024 12:13:40 TRACE: [Graph] ================ SORTING
+02 May 2024 12:13:40 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:13:40 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:13:40 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:13:40 INFO : [TestNG] Running:
+  Command line suite
+
+02 May 2024 12:13:40 INFO : Before Test
+02 May 2024 12:14:27 TRACE: [Graph] ADDING NODE AppTest.setUp()[pri:0, instance:null] 677384702
+02 May 2024 12:14:27 TRACE: [Graph] ================ SORTING
+02 May 2024 12:14:27 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:14:27 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ADDING NODE AppTest.tearDown()[pri:0, instance:null] -1305543291
+02 May 2024 12:14:27 TRACE: [Graph] ================ SORTING
+02 May 2024 12:14:27 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:14:27 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ADDING NODE AppTest.setUp()[pri:0, instance:com.example.AppTest@550a1967] 950814505
+02 May 2024 12:14:27 TRACE: [Graph] ================ SORTING
+02 May 2024 12:14:27 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:14:27 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ADDING NODE AppTest.shouldAnswerWithTrue()[pri:0, instance:com.example.AppTest@550a1967] -1947741343
+02 May 2024 12:14:27 TRACE: [Graph] ================ SORTING
+02 May 2024 12:14:27 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:14:27 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ADDING NODE AppTest.tearDown()[pri:0, instance:com.example.AppTest@550a1967] -390411134
+02 May 2024 12:14:27 TRACE: [Graph] ================ SORTING
+02 May 2024 12:14:27 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:14:27 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:14:27 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:14:27 INFO : [TestNG] Running:
+  Command line suite
+
+02 May 2024 12:14:27 INFO : Before Test
+02 May 2024 12:15:09 TRACE: [Graph] ADDING NODE AppTest.setUp()[pri:0, instance:null] 677384702
+02 May 2024 12:15:09 TRACE: [Graph] ================ SORTING
+02 May 2024 12:15:09 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:15:09 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ADDING NODE AppTest.tearDown()[pri:0, instance:null] -1305543291
+02 May 2024 12:15:09 TRACE: [Graph] ================ SORTING
+02 May 2024 12:15:09 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:15:09 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ADDING NODE AppTest.setUp()[pri:0, instance:com.example.AppTest@550a1967] 950814505
+02 May 2024 12:15:09 TRACE: [Graph] ================ SORTING
+02 May 2024 12:15:09 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:15:09 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ADDING NODE AppTest.shouldAnswerWithTrue()[pri:0, instance:com.example.AppTest@550a1967] -1947741343
+02 May 2024 12:15:09 TRACE: [Graph] ================ SORTING
+02 May 2024 12:15:09 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:15:09 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ADDING NODE AppTest.tearDown()[pri:0, instance:com.example.AppTest@550a1967] -390411134
+02 May 2024 12:15:09 TRACE: [Graph] ================ SORTING
+02 May 2024 12:15:09 TRACE: [Graph] =============== DONE SORTING
+02 May 2024 12:15:09 TRACE: [Graph] ====== SORTED NODES
+02 May 2024 12:15:09 TRACE: [Graph] ====== END SORTED NODES
+02 May 2024 12:15:09 INFO : [TestNG] Running:
+  Command line suite
+
+02 May 2024 12:15:09 INFO : Before Test
